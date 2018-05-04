@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Puppy</string>
+    <string name="nombre_completo">Nombre Completo</string>
+    <string name="correo">Correo Electronico</string>
+    <string name="password">Contraseña</string>
+    <string name="confirmar_password">Verificar Contraseña</string>
+    <string name="crear_cuenta">Crear Cuenta</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="imagen">Logo de la empresa</string>
+    <string name="imagen_facebook">Logo de facebook</string>
 </resources>

@@ -17,11 +17,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:max="100"
-            app:ringColor="@color/colorPrimary"
-            app:ringProgressColor="@color/colorPrimaryDark"
+            app:ringColor="#52E3A2"
+            app:ringProgressColor="#52E3A2"
             app:ringWidth="3dp"
             app:style="FILL"
-            app:textColor="@color/colorPrimary"
+            app:textColor="#52E3A2"
             app:textIsShow="true"
             app:textSize="16sp"/>
         <io.netopen.hotbitmapgg.library.view.RingProgressBar
@@ -29,11 +29,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:max="100"
-            app:ringColor="@android:color/darker_gray"
-            app:ringProgressColor="@color/colorPrimaryDark"
+            app:ringColor="#52E3A2"
+            app:ringProgressColor="#52E3A2"
             app:ringWidth="3dp"
             app:style="STROKE"
-            app:textColor="@color/colorPrimary"
+            app:textColor="#52E3A2"
             app:textIsShow="true"
             app:textSize="16sp"/>
 
